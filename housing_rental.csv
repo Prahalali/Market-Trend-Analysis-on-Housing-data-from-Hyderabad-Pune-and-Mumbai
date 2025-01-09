@@ -1,0 +1,734 @@
+,PRICE,BHK,LOCATION,AREA,BATHROOMS,FURNISH
+0,"26,000",1,"in Madhapur, Hyderabad",700,Bathrooms1,Fully
+1,"60,000",3,"in Kokapet, Hyderabad",2275,,Semi
+2,"45,000",3,"in Osman Nagar, Hyderabad",2533,,Fully
+3,"1,70,000",3,"in Rai Durg, Hyderabad",2595,,Fully
+4,"26,000",1,"in Madhapur, Hyderabad",480,Bathrooms1,Un
+5,"26,000",1,"in Madhapur, Hyderabad",520,Bathrooms1,Fully
+6,"23,000",1,"in Kondapur, Hyderabad",720,Bathrooms1,Fully
+7,"37,500",3,"in Kondapur, Hyderabad",1850,,Semi
+8,"40,000",2,"in Madhapur, Hyderabad",1050,Bathrooms2,Fully
+9,"65,000",3,"in Banjara Hills, Hyderabad",2425,Bathrooms3,Fully
+10,"45,000",3,"in Bairagiguda, Hyderabad",1600,,Semi
+11,"21,000",1,"in Kondapur, Hyderabad",560,Bathrooms1,Fully
+12,"20,000",1,"in Kondapur, Hyderabad",750,Bathrooms1,Fully
+13,"40,000",2,"in Kondapur, Hyderabad",1250,Bathrooms2,Fully
+14,"22,003",1,"in Kondapur, Hyderabad",800,Bathrooms1,Semi
+15,"40,000",2,"in Kondapur, Hyderabad",1200,Bathrooms2,Fully
+16,"50,000",3,"in Borabanda, Hyderabad",2775,,Semi
+17,"25,000",1,"in Madhapur, Hyderabad",450,Bathrooms1,Fully
+18,"42,000",2,"in Kondapur, Hyderabad",1400,Bathrooms2,Fully
+19,"35,000",2,"in Kondapur, Hyderabad",1000,Bathrooms1,Fully
+20,"27,000",2,"in Kondapur, Hyderabad",1200,Bathrooms2,Semi
+21,"27,000",2,"in Kondapur, Hyderabad",1150,Bathrooms1,Semi
+22,"30,000",2,"in Kondapur, Hyderabad",1400,Bathrooms1,Semi
+23,"32,000",2,"in Hitech City, Hyderabad",1200,Bathrooms2,Semi
+24,"26,000",2,"in Kondapur, Hyderabad",1150,Bathrooms1,Semi
+25,"36,000",3,"in Kondapur, Hyderabad",1700,Bathrooms3,Semi
+26,"26,000",2,"in Kondapur, Hyderabad",1400,Bathrooms1,Semi
+27,"20,000",1,"in Kondapur, Hyderabad",500,Bathrooms1,Semi
+28,"42,000",3,"in Kondapur, Hyderabad",1700,,Semi
+29,"1,10,000",3,"in Gachibowli, Hyderabad",2710,,Semi
+30,"36,000",2,"in Madhapur, Hyderabad",1050,Bathrooms2,Fully
+31,"18,500",1,"in Kondapur, Hyderabad",750,Bathrooms1,Semi
+32,"23,000",1,"in Kondapur, Hyderabad",720,Bathrooms1,Fully
+33,"16,500",1,"in Kondapur, Hyderabad",720,Bathrooms1,Semi
+34,"37,500",3,"in Kondapur, Hyderabad",1850,,Semi
+35,"42,000",2,"in Kondapur, Hyderabad",1400,Bathrooms2,Fully
+36,"40,000",2,"in Kondapur, Hyderabad",1400,Bathrooms2,Fully
+37,"45,000",3,"in Kondapur, Hyderabad",2100,Bathrooms3,Semi
+38,"43,000",3,"in Kothaguda, Hyderabad",1950,Bathrooms3,Fully
+39,"17,000",1,"in Kondapur, Hyderabad",740,Bathrooms1,Semi
+40,"26,500",2,"in Kondapur, Hyderabad",1350,Bathrooms2,Semi
+41,"28,500",2,"in Serilingampally, Hyderabad",1410,Bathrooms2,Semi
+42,"38,000",3,"in Kondapur, Hyderabad",1850,Bathrooms3,Semi
+43,"45,000",3,"in Bairagiguda, Hyderabad",1600,,Semi
+44,"17,000",1,"in Kondapur, Hyderabad",720,Bathrooms1,Semi
+45,"21,000",1,"in Kondapur, Hyderabad",560,Bathrooms1,Fully
+46,"20,000",1,"in Kondapur, Hyderabad",750,Bathrooms1,Fully
+47,"20,000",1,"in Kondapur, Hyderabad",760,Bathrooms1,Semi
+48,"38,000",3,"in Serilingampally, Hyderabad",1800,Bathrooms2,Semi
+49,"35,000",2,"in Kondapur, Hyderabad",1000,Bathrooms1,Fully
+50,"28,000",2,"in Kondapur, Hyderabad",1210,Bathrooms1,Semi
+51,"25,000",2,"in Kondapur, Hyderabad",1150,Bathrooms2,Semi
+52,"27,000",2,"in Kondapur, Hyderabad",1200,Bathrooms2,Semi
+53,"26,000",2,"in Kondapur, Hyderabad",1250,Bathrooms2,Semi
+54,"40,000",2,"in Kondapur, Hyderabad",1250,Bathrooms2,Fully
+55,"27,000",2,"in Kondapur, Hyderabad",1150,Bathrooms2,Semi
+56,"32,000",3,"in Kondapur, Hyderabad",1850,Bathrooms2,Semi
+57,"27,000",2,"in Kondapur, Hyderabad",1150,Bathrooms1,Semi
+58,"26,000",2,"in Kondapur, Hyderabad",1150,Bathrooms1,Semi
+59,"35,000",3,"in Kondapur, Hyderabad",1850,Bathrooms2,Semi
+60,"28,000",2,"in Kondapur, Hyderabad",1250,Bathrooms1,Semi
+61,"30,000",3,"in Kondapur, Hyderabad",1850,Bathrooms2,Semi
+62,"30,000",2,"in Kondapur, Hyderabad",1500,Bathrooms2,Semi
+63,"38,000",3,"in Serilingampally, Hyderabad",1850,Bathrooms2,Semi
+64,"40,000",3,"in Kondapur, Hyderabad",1800,Bathrooms3,Semi
+65,"36,000",3,"in Kondapur, Hyderabad",1700,Bathrooms3,Semi
+66,"16,500",1,"in Kondapur, Hyderabad",750,Bathrooms1,Semi
+67,"32,000",3,"in Kondapur, Hyderabad",1650,Bathrooms3,Semi
+68,"18,000",1,"in Kondapur, Hyderabad",750,Bathrooms1,Semi
+69,"17,000",1,"in Kondapur, Hyderabad",700,Bathrooms1,Semi
+70,"40,000",3,"in Kondapur, Hyderabad",1750,Bathrooms3,Semi
+71,"32,000",3,"in Kondapur, Hyderabad",1625,Bathrooms3,Semi
+72,"24,000",2,"in Kondapur, Hyderabad",1235,Bathrooms2,Semi
+73,"16,500",1,"in Kondapur, Hyderabad",725,,Semi
+74,"32,000",3,"in Kondapur, Hyderabad",1725,Bathrooms3,Semi
+75,"31,000",3,"in Kondapur, Hyderabad",1712,Bathrooms3,Semi
+76,"30,000",2,"in Kondapur, Hyderabad",1250,Bathrooms2,Semi
+77,"38,000",2,"in Kondapur, Hyderabad",1150,Bathrooms2,Fully
+78,"29,000",2,"in Kondapur, Hyderabad",1250,Bathrooms2,Semi
+79,"28,000",2,"in Kondapur, Hyderabad",1250,Bathrooms2,Semi
+80,"30,000",2,"in Kondapur, Hyderabad",1525,Bathrooms2,Semi
+81,"28,000",2,"in Kondapur, Hyderabad",1230,Bathrooms2,Semi
+82,"23,500",1,"in Kondapur, Hyderabad",720,Bathrooms1,Fully
+83,"30,000",2,"in Kondapur, Hyderabad",1400,Bathrooms1,Semi
+84,"48,000",3,"in Kondapur, Hyderabad",2800,Bathrooms2,Fully
+85,"20,002",1,"in Kondapur, Hyderabad",700,Bathrooms1,Fully
+86,"22,003",1,"in Kondapur, Hyderabad",800,Bathrooms1,Semi
+87,"26,000",2,"in Kondapur, Hyderabad",1400,Bathrooms1,Semi
+88,"35,000",2,"in Kondapur, Hyderabad",1400,Bathrooms1,Fully
+89,"27,000",2,"in Kondapur, Hyderabad",1600,Bathrooms1,Semi
+90,"25,000",2,"in Kondapur, Hyderabad",1800,Bathrooms1,Semi
+91,"45,000",3,"in Kondapur, Hyderabad",1712,Bathrooms3,Fully
+92,"18,000",1,"in Kondapur, Hyderabad",600,Bathrooms1,Semi
+93,"18,000",1,"in Kondapur, Hyderabad",600,Bathrooms1,Semi
+94,"26,000",2,"in Kondapur, Hyderabad",1200,Bathrooms1,Semi
+95,"20,001",1,"in Kondapur, Hyderabad",650,Bathrooms1,Fully
+96,"20,000",1,"in Kondapur, Hyderabad",700,Bathrooms1,Fully
+97,"34,000",3,"in Kondapur, Hyderabad",1900,Bathrooms3,Semi
+98,"40,000",2,"in Kondapur, Hyderabad",1200,Bathrooms2,Fully
+99,"27,000",1,"in Kondapur, Hyderabad",700,Bathrooms1,Fully
+100,"27,000",1,"in Kondapur, Hyderabad",700,Bathrooms1,Fully
+101,"32,000",2,"in Hitech City, Hyderabad",1200,Bathrooms2,Semi
+102,"20,000",1,"in Kondapur, Hyderabad",500,Bathrooms1,Semi
+103,"25,000",1,"in Kondapur, Hyderabad",700,Bathrooms1,Fully
+104,"25,000",1,"in Kondapur, Hyderabad",700,Bathrooms1,Fully
+105,"20,000",1,"in Kondapur, Hyderabad",650,Bathrooms1,Semi
+106,"23,000",1,"in Kondapur, Hyderabad",600,Bathrooms1,Semi
+107,"25,500",1,"in Kondapur, Hyderabad",700,Bathrooms1,Fully
+108,"21,000",1,"in Kondapur, Hyderabad",550,Bathrooms1,Semi
+109,"22,000",1,"in Kondapur, Hyderabad",600,Bathrooms1,Semi
+110,"21,500",1,"in Kondapur, Hyderabad",550,Bathrooms1,Semi
+111,"33,500",3,"in Kondapur, Hyderabad",1800,Bathrooms3,Semi
+112,"21,500",1,"in Hafeezpet, Hyderabad",750,,Fully
+113,"22,000",1,"in Kondapur, Hyderabad",600,Bathrooms1,Semi
+114,"20,000",1,"in Kondapur, Hyderabad",600,Bathrooms1,Semi
+115,"34,000",2,"in Kondapur, Hyderabad",1350,Bathrooms2,Fully
+116,"21,000",1,"in Kondapur, Hyderabad",720,,Fully
+117,"28,000",2,"in Kondapur, Hyderabad",1400,,Semi
+118,"22,000",1,"in Kondapur, Hyderabad",700,Bathrooms1,Semi
+119,"23,000",1,"in Kondapur, Hyderabad",600,Bathrooms1,Semi
+120,"20,500",1,"in Kondapur, Hyderabad",720,,Fully
+121,"16,500",1,"in Kondapur, Hyderabad",720,Bathrooms1,Semi
+122,"16,000",1,"in Kondapur, Hyderabad",720,Bathrooms1,Semi
+123,"16,500",1,"in Kondapur, Hyderabad",725,Bathrooms1,Semi
+124,"37,000",3,"in Kondapur, Hyderabad",1850,Bathrooms3,Semi
+125,"17,500",1,"in Kondapur, Hyderabad",750,Bathrooms1,Semi
+126,"23,000",1,"in Kondapur, Hyderabad",725,Bathrooms1,Fully
+127,"35,000",2,"in Kondapur, Hyderabad",1250,Bathrooms2,Semi
+128,"40,000",2,"in Kondapur, Hyderabad",1000,Bathrooms2,Fully
+129,"23,000",1,"in Kondapur, Hyderabad",700,Bathrooms1,Fully
+130,"32,000",2,"in Kondapur, Hyderabad",1225,Bathrooms2,Semi
+131,"21,000",1,"in Kondapur, Hyderabad",700,Bathrooms1,Semi
+132,"45,000",2,"in Kondapur, Hyderabad",1200,Bathrooms2,Fully
+133,"60,000",3,"in Kondapur, Hyderabad",2000,Bathrooms3,Fully
+134,"38,000",2,"in Kondapur, Hyderabad",1150,Bathrooms2,Fully
+135,"42,000",3,"in Kondapur, Hyderabad",1700,,Semi
+136,"25,000",1,"in Kondapur, Hyderabad",700,Bathrooms1,Fully
+137,"31,500",3,"in Kondapur, Hyderabad",1700,,Semi
+138,"37,000",2,"in Kondapur, Hyderabad",1000,Bathrooms2,Fully
+139,"22,000",1,"in Kondapur, Hyderabad",600,Bathrooms1,Fully
+140,"36,000",3,"in Kondapur, Hyderabad",1500,Bathrooms3,Semi
+141,"18,000",1,"in Kondapur, Hyderabad",550,Bathrooms1,Semi
+142,"20,003",1,"in Kondapur, Hyderabad",550,Bathrooms1,Semi
+143,"24,000",2,"in Kondapur, Hyderabad",1143,Bathrooms1,Un
+144,"40,000",3,"in Kondapur, Hyderabad",1700,,Semi
+145,"44,000",3,"in Serilingampally, Hyderabad",1400,,Fully
+146,"35,000",3,"in Kondapur, Hyderabad",1800,,Semi
+147,"20,003",1,"in Kondapur, Hyderabad",550,Bathrooms1,Semi
+148,"36,000",2,"in Kondapur, Hyderabad",1700,,Semi
+149,"16,000",1,"in Kondapur, Hyderabad",550,Bathrooms1,Semi
+150,"36,000",2,"in Kondapur, Hyderabad",1700,,Fully
+151,"32,000",3,"in Kondapur, Hyderabad",1650,Bathrooms2,Semi
+152,"22,000",1,"in Kondapur, Hyderabad",850,Bathrooms1,Fully
+153,"35,000",2,"in Kondapur, Hyderabad",1450,Bathrooms2,Semi
+154,"21,000",1,"in Kondapur, Hyderabad",600,Bathrooms1,Semi
+155,"30,000",2,"in Kondapur, Hyderabad",1200,,Semi
+156,"24,000",1,"in Kondapur, Hyderabad",600,Bathrooms1,Fully
+157,"45,000",3,"in Kondapur, Hyderabad",1850,Bathrooms3,Semi
+158,"33,500",2,"in Kondapur, Hyderabad",1400,Bathrooms2,Fully
+159,"24,500",2,"in Kondapur, Hyderabad",1250,Bathrooms2,Semi
+160,"1,10,000",3,"in Gachibowli, Hyderabad",2710,,Semi
+161,"1,10,000",3,"in Gachibowli, Hyderabad",2699,,Semi
+162,"91,000",3,"in Gachibowli, Hyderabad",2696,,Semi
+163,"70,000",3,"in Nanakaramguda, Hyderabad",1993,,Semi
+164,"38,000",2,"in Nanakaramguda, Hyderabad",1225,,Semi
+165,"23,000",1,"in Kondapur, Hyderabad",650,Bathrooms1,Fully
+166,"28,500",1,"in Kondapur, Hyderabad",1150,Bathrooms2,Fully
+167,"43,000",2,"in Nanakaramguda, Hyderabad",1400,,Semi
+168,"45,000",3,"in Kokapet, Hyderabad",1800,,Semi
+169,"38,000",3,"in Nanakaramguda, Hyderabad",1885,,Un
+170,"66,000",3,"in Nanakaramguda, Hyderabad",1885,,Fully
+171,"42,000",2,"in Nanakaramguda, Hyderabad",1400,,Semi
+172,"42,000",2,"in Nanakaramguda, Hyderabad",1250,,Semi
+173,"43,300",2,"in Nanakaramguda, Hyderabad",1400,,Semi
+174,"28,000",1,"in Madhapur, Hyderabad",804,Bathrooms1,Fully
+175,"45,000",3,"in Nanakaramguda, Hyderabad",1885,,Un
+176,"29,500",2,"in Madhapur, Hyderabad",1204,Bathrooms2,Semi
+177,"25,000",1,"in Madhapur, Hyderabad",704,Bathrooms1,Fully
+178,"38,000",2,"in Madhapur, Hyderabad",1288,Bathrooms1,Fully
+179,"45,000",3,"in Nanakaramguda, Hyderabad",1885,,Un
+180,"60,000",3,"in Nanakaramguda, Hyderabad",1886,,Semi
+181,"60,000",3,"in Nanakaramguda, Hyderabad",1886,,Fully
+182,"60,000",3,"in Nanakaramguda, Hyderabad",1886,,Fully
+183,"48,000",3,"in Nanakaramguda, Hyderabad",1885,,Un
+184,"41,000",2,"in Nanakaramguda, Hyderabad",1300,,Semi
+185,"40,000",2,"in Nanakaramguda, Hyderabad",1200,,Semi
+186,"41,000",2,"in Nanakaramguda, Hyderabad",1300,,Semi
+187,"40,000",2,"in Nanakaramguda, Hyderabad",1200,,Semi
+188,"1,05,000",5,"in Kokapet, Hyderabad",3650,,Fully
+189,"95,000",3,"in Kokapet, Hyderabad",2048,,Semi
+190,"74,500",4,"in Nanakaramguda, Hyderabad",2700,,Semi
+191,"74,000",4,"in Nanakaramguda, Hyderabad",2700,,Semi
+192,"18,000",1,"in Madhapur, Hyderabad",610,Bathrooms1,Un
+193,"22,000",1,"in Madhapur, Hyderabad",630,Bathrooms1,Un
+194,"27,000",2,"in Madhapur, Hyderabad",1143,Bathrooms2,Un
+195,"40,000",2,"in Madhapur, Hyderabad",1200,Bathrooms2,Semi
+196,"50,000",3,"in Kondapur, Hyderabad",2200,Bathrooms2,Fully
+197,"35,000",3,"in Kondapur, Hyderabad",1700,Bathrooms2,Semi
+198,"27,000",2,"in Kondapur, Hyderabad",1250,Bathrooms1,Semi
+199,"35,000",3,"in Kondapur, Hyderabad",1850,Bathrooms2,Semi
+200,"15,000",1,"in Kondapur, Hyderabad",650,Bathrooms1,Semi
+201,"16,500",1,"in Kondapur, Hyderabad",600,Bathrooms1,Semi
+202,"28,000",2,"in Kondapur, Hyderabad",1250,Bathrooms1,Semi
+203,"14,000",1,"in Kondapur, Hyderabad",500,Bathrooms1,Un
+204,"25,000",1,"in Kondapur, Hyderabad",1050,,Fully
+205,"19,000",1,"in Kondapur, Hyderabad",950,Bathrooms1,Semi
+206,"19,500",1,"in Kondapur, Hyderabad",1060,Bathrooms1,Semi
+207,"25,000",1,"in Kondapur, Hyderabad",950,Bathrooms1,Fully
+208,"20,000",1,"in Kondapur, Hyderabad",650,Bathrooms1,Fully
+209,"28,000",2,"in Kondapur, Hyderabad",1250,Bathrooms1,Semi
+210,"35,000",2,"in Kondapur, Hyderabad",1450,Bathrooms1,Fully
+211,"37,000",3,"in Kondapur, Hyderabad",2000,Bathrooms3,Semi
+212,"36,000",3,"in Kondapur, Hyderabad",1800,Bathrooms2,Semi
+213,"28,000",2,"in Kondapur, Hyderabad",1200,Bathrooms2,Semi
+214,"28,000",2,"in Kondapur, Hyderabad",1350,Bathrooms2,Semi
+215,"18,000",1,"in Kondapur, Hyderabad",800,Bathrooms1,Semi
+216,"22,000",1,"in Kondapur, Hyderabad",750,Bathrooms1,Fully
+217,"38,000",2,"in Kondapur, Hyderabad",1405,Bathrooms2,Fully
+218,"26,000",2,"in Kondapur, Hyderabad",1300,Bathrooms1,Semi
+219,"40,000",3,"in Kondapur, Hyderabad",2000,Bathrooms3,Semi
+220,"17,000",1,"in Kondapur, Hyderabad",700,Bathrooms1,Semi
+221,"25,000",1,"in Kondapur, Hyderabad",850,Bathrooms1,Fully
+222,"14,000",1,"in Kondapur, Hyderabad",650,Bathrooms1,Un
+223,"16,000",1,"in Kondapur, Hyderabad",750,Bathrooms1,Semi
+224,"18,000",1,"in Kondapur, Hyderabad",750,Bathrooms1,Semi
+225,"24,000",1,"in Kondapur, Hyderabad",758,Bathrooms1,Fully
+226,"23,000",1,"in Kondapur, Hyderabad",650,Bathrooms1,Fully
+227,"18,000",1,"in Kondapur, Hyderabad",650,Bathrooms1,Semi
+228,"38,000",2,"in Kondapur, Hyderabad",1250,Bathrooms2,Fully
+229,"17,000",1,"in Kondapur, Hyderabad",650,Bathrooms1,Semi
+230,"14,000",1,"in Kondapur, Hyderabad",650,Bathrooms1,Un
+231,"45,000",3,"in Kondapur, Hyderabad",3000,Bathrooms3,Semi
+232,"45,000",3,"in Kondapur, Hyderabad",3000,Bathrooms3,Semi
+233,"18,000",1,"in Kondapur, Hyderabad",650,Bathrooms1,Semi
+234,"30,000",2,"in Kondapur, Hyderabad",1500,Bathrooms2,Semi
+235,"30,000",2,"in Kondapur, Hyderabad",1500,Bathrooms2,Semi
+236,"22,000",1,"in Kondapur, Hyderabad",650,Bathrooms1,Fully
+237,"37,000",2,"in Kondapur, Hyderabad",1500,Bathrooms2,Semi
+238,"35,000",2,"in Kondapur, Hyderabad",2500,Bathrooms2,Fully
+239,"28,000",1,"in Kondapur, Hyderabad",650,Bathrooms1,Semi
+240,"30,008",2,"in Kondapur, Hyderabad",650,Bathrooms2,Semi
+241,"17,000",1,"in Kondapur, Hyderabad",650,Bathrooms1,Semi
+242,"14,000",1,"in Hafeezpet, Hyderabad",650,Bathrooms1,Un
+243,"28,000",1,"in Kondapur, Hyderabad",850,Bathrooms1,Fully
+244,"30,000",2,"in Madhapur, Hyderabad",1200,Bathrooms2,Semi
+245,"27,000",1,"in Madhapur, Hyderabad",700,Bathrooms1,Fully
+246,"22,000",1,"in Hafeezpet, Hyderabad",800,Bathrooms1,Semi
+247,"17,000",1,"in Hafeezpet, Hyderabad",750,,Un
+248,"16,000",1,"in Hafeezpet, Hyderabad",800,Bathrooms1,Un
+249,"40,000",3,"in Kondapur, Hyderabad",1200,Bathrooms3,Fully
+250,"15,000",1,"in Hafeezpet, Hyderabad",650,Bathrooms1,Un
+251,"25,000",2,"in Hafeezpet, Hyderabad",1000,Bathrooms1,Semi
+252,"20,000",1,"in Kondapur, Hyderabad",750,Bathrooms1,Semi
+253,"40,000",2,"in Kondapur, Hyderabad",1100,Bathrooms1,Fully
+254,"40,000",3,"in Kondapur, Hyderabad",1300,Bathrooms2,Semi
+255,"20,000",1,"in Kondapur, Hyderabad",800,Bathrooms1,Semi
+256,"15,006",1,"in Kondapur, Hyderabad",700,Bathrooms1,Un
+257,"18,007",1,"in Kondapur, Hyderabad",700,Bathrooms1,Semi
+258,"20,000",1,"in Kondapur, Hyderabad",700,Bathrooms1,Semi
+259,"18,000",1,"in Kondapur, Hyderabad",700,,Semi
+260,"31,005",2,"in Kondapur, Hyderabad",1000,Bathrooms1,Semi
+261,"15,000",1,"in Kondapur, Hyderabad",600,Bathrooms1,Un
+262,"24,000",2,"in Kondapur, Hyderabad",1200,Bathrooms1,Semi
+263,"22,000",1,"in Kondapur, Hyderabad",750,Bathrooms1,Semi
+264,"55,000",3,"in Kondapur, Hyderabad",2400,,Semi
+265,"28,000",3,"in Kondapur, Hyderabad",2100,Bathrooms2,Semi
+266,"35,000",3,"in Kondapur, Hyderabad",1900,Bathrooms2,Semi
+267,"20,000",1,"in Kondapur, Hyderabad",920,Bathrooms1,Fully
+268,"17,000",1,"in Kondapur, Hyderabad",650,Bathrooms1,Semi
+269,"18,000",1,"in Kondapur, Hyderabad",650,Bathrooms1,Semi
+270,"58,000",3,"in Kondapur, Hyderabad",2290,,Semi
+271,"55,000",3,"in Kukatpally, Hyderabad",1735,,Semi
+272,"50,000",3,"in Borabanda, Hyderabad",1583,,Semi
+273,"62,000",3,"in Kukatpally, Hyderabad",1860,,Semi
+274,"55,000",3,"in Kukatpally, Hyderabad",1735,,Semi
+275,"85,000",3,"in Kondapur, Hyderabad",2290,,Semi
+276,"53,000",3,"in Borabanda, Hyderabad",1583,,Fully
+277,"1,20,000",3,"in Kondapur, Hyderabad",2440,,Semi
+278,"40,000",3,"in Malikdanguda, Hyderabad",2036,,Semi
+279,"62,000",3,"in Kukatpally, Hyderabad",1740,,Semi
+280,"35,000",2,"in Malikdanguda, Hyderabad",1330,,Fully
+281,"75,021",3,"in Kondapur, Hyderabad",2438,,Semi
+282,"45,015",2,"in Nallagandla, Hyderabad",1544,,Semi
+283,"80,026",4,"in Kothaguda, Hyderabad",5000,,Fully
+284,"80,000",3,"in Kokapet, Hyderabad",2561,,Fully
+285,"50,000",3,"in Borabanda, Hyderabad",2775,,Semi
+286,"60,000",3,"in Kokapet, Hyderabad",2275,,Semi
+287,"52,000",3,"in Borabanda, Hyderabad",2063,,Semi
+288,"2,20,012",3,"in Rai Durg, Hyderabad",4288,,Semi
+289,"65,012",2,"in Nanakaramguda, Hyderabad",1638,,Fully
+290,"60,000",3,"in Nanakaramguda, Hyderabad",2438,,Semi
+291,"55,000",2,"in Kondapur, Hyderabad",1613,,Semi
+292,"60,026",3,"in Kokapet, Hyderabad",2238,,Semi
+293,"42,012",3,"in Serilingampally, Hyderabad",1800,,Semi
+294,"1,00,016",4,"in Manikonda, Hyderabad",4574,,Fully
+295,"60,036",3,"in Gopanapalli, Hyderabad",2013,,Semi
+296,"65,012",3,"in Nallagandla, Hyderabad",2313,,Fully
+297,"70,015",2,"in Nallagandla, Hyderabad",2444,,Fully
+298,"55,012",3,"in Borabanda, Hyderabad",2063,,Semi
+299,"55,021",3,"in Puppalaguda, Hyderabad",2063,,Semi
+300,"42,011",3,"in Chandanagar, Hyderabad",2250,Bathrooms3,Semi
+301,"45,016",3,"in Osman Nagar, Hyderabad",2533,,Fully
+302,"27,500",1,"in Kondapur, Hyderabad",325,Bathrooms1,Fully
+303,"55,012",3,"in Borabanda, Hyderabad",2063,,Semi
+304,"70,015",2,"in Nallagandla, Hyderabad",2444,,Fully
+305,"60,000",3,"in Kokapet, Hyderabad",2275,,Semi
+306,"65,011",3,"in Kokapet, Hyderabad",2169,Bathrooms3,Fully
+307,"70,015",4,"in Nanakaramguda, Hyderabad",2491,,Semi
+308,"55,011",2,"in Kondapur, Hyderabad",2938,,Fully
+309,"50,011",3,"in Borabanda, Hyderabad",2775,,Semi
+310,"50,026",2,"in Khaja Guda, Hyderabad",1643,,Fully
+311,"45,011",2,"in Nallagandla, Hyderabad",1594,,Semi
+312,"1,00,024",3,"in Kondapur, Hyderabad",2988,,Semi
+313,"75,014",3,"in Kokapet, Hyderabad",2794,,Semi
+314,"65,012",3,"in Nallagandla, Hyderabad",2481,,Semi
+315,"2,50,012",4,"in Shaikpet, Hyderabad",6520,,Semi
+316,"45,014",2,"in Nallagandla, Hyderabad",1544,,Semi
+317,"2,20,017",3,"in Rai Durg, Hyderabad",4288,,Semi
+318,"3,00,000",4,"in Banjara Hills, Hyderabad",5200,Bathrooms5,Semi
+319,"60,000",3,"in Banjara Hills, Hyderabad",2700,Bathrooms3,Semi
+320,"1,20,000",4,"in Banjara Hills, Hyderabad",3200,Bathrooms3,Semi
+321,"65,000",3,"in Banjara Hills, Hyderabad",2600,Bathrooms3,Semi
+322,"75,000",3,"in Srinagar Colony, Hyderabad",2600,Bathrooms3,Semi
+323,"55,012",3,"in Borabanda, Hyderabad",2063,,Semi
+324,"50,012",3,"in Borabanda, Hyderabad",2775,,Semi
+325,"60,011",3,"in Kokapet, Hyderabad",2275,,Semi
+326,"85,011",3,"in Kondapur, Hyderabad",3056,,Semi
+327,"80,012",3,"in Kokapet, Hyderabad",2561,,Fully
+328,"70,012",4,"in Nanakaramguda, Hyderabad",2491,,Semi
+329,"70,011",3,"in Nanakaramguda, Hyderabad",2178,,Fully
+330,"1,00,012",5,"in Shaikpet, Hyderabad",5981,,Semi
+331,"60,011",3,"in Nanakaramguda, Hyderabad",2438,,Semi
+332,"45,014",2,"in Nallagandla, Hyderabad",1594,,Semi
+333,"70,012",2,"in Nallagandla, Hyderabad",2444,,Fully
+334,"45,012",3,"in Kokapet, Hyderabad",2344,,Semi
+335,"80,012",3,"in Narsingi, Hyderabad",2656,,Semi
+336,"1,00,021",3,"in Kondapur, Hyderabad",2988,,Semi
+337,"75,011",3,"in Kondapur, Hyderabad",2438,,Semi
+338,"45,012",2,"in Nallagandla, Hyderabad",1544,,Semi
+339,"65,011",3,"in Nallagandla, Hyderabad",2481,,Semi
+340,"65,012",3,"in Nallagandla, Hyderabad",2481,,Semi
+341,"1,00,011",4,"in Manikonda, Hyderabad",4574,,Fully
+342,"2,20,014",3,"in Rai Durg, Hyderabad",4288,,Semi
+343,"1,00,023",3,"in Kondapur, Hyderabad",3000,,Semi
+344,"25,000",2,"in Narayanguda, Hyderabad",1150,Bathrooms2,Fully
+345,"20,000",2,"in Nallakunta, Hyderabad",1100,Bathrooms2,Fully
+346,"11,500",1,"in Zamistanpur, Hyderabad",800,Bathrooms1,Semi
+347,"65,000",3,"in Kondapur, Hyderabad",1620,,Semi
+348,"67,000",3,"in Kondapur, Hyderabad",1620,,Semi
+349,"65,000",3,"in Kondapur, Hyderabad",1620,,Semi
+350,"65,000",3,"in Kondapur, Hyderabad",1620,,Semi
+351,"65,000",3,"in Kondapur, Hyderabad",1620,,Semi
+352,"48,000",2,"in Kondapur, Hyderabad",1290,,Semi
+353,"40,000",2,"in Madhapur, Hyderabad",1050,Bathrooms2,Fully
+354,"65,000",3,"in Banjara Hills, Hyderabad",2425,Bathrooms3,Fully
+355,"55,000",3,"in Kothaguda, Hyderabad",1765,Bathrooms3,Semi
+356,"50,000",2,"in Nanakaramguda, Hyderabad",1283,,Semi
+357,"2,20,000",4,"in Gachibowli, Hyderabad",4800,,Fully
+358,"33,000",3,"in Kukatpally, Hyderabad",1700,Bathrooms2,Semi
+359,"27,500",2,"in Kukatpally, Hyderabad",1200,Bathrooms2,Semi
+360,"18,000",2,"in Uppal, Hyderabad",1850,Bathrooms2,Un
+361,"65,032",3,"in Nallagandla, Hyderabad",2481,,Semi
+362,"50,036",2,"in Gopanapalli, Hyderabad",1938,,Semi
+363,"1,00,012",3,"in Kondapur, Hyderabad",3000,,Semi
+364,"1,00,000",5,"in Shaikpet, Hyderabad",5981,,Semi
+365,"45,000",2,"in Nallagandla, Hyderabad",1594,,Semi
+366,"70,000",2,"in Nallagandla, Hyderabad",2444,,Fully
+367,"55,000",3,"in Borabanda, Hyderabad",1938,,Semi
+368,"1,20,012",5,"in Tellapur, Hyderabad",5000,,Semi
+369,"70,000",3,"in Nanakaramguda, Hyderabad",2178,,Fully
+370,"55,000",2,"in Kondapur, Hyderabad",2938,,Fully
+371,"65,016",3,"in Gopanapalli, Hyderabad",2456,,Fully
+372,"65,000",3,"in Nallagandla, Hyderabad",2481,,Semi
+373,"26,000",1,"in Kondapur, Hyderabad",500,Bathrooms1,Fully
+374,"1,20,000",5,"in Tellapur, Hyderabad",5000,,Semi
+375,"2,50,011",4,"in Kondapur, Hyderabad",5125,,Semi
+376,"50,021",3,"in Manikonda, Hyderabad",1688,,Semi
+377,"70,000",3,"in Nanakaramguda, Hyderabad",2178,,Fully
+378,"55,016",2,"in Kondapur, Hyderabad",2938,,Fully
+379,"1,00,000",5,"in Shaikpet, Hyderabad",5981,,Semi
+380,"80,036",3,"in Kokapet, Hyderabad",2561,,Fully
+381,"70,026",4,"in Nanakaramguda, Hyderabad",2491,,Semi
+382,"1,00,012",5,"in Shaikpet, Hyderabad",5981,,Semi
+383,"60,015",3,"in Nanakaramguda, Hyderabad",2438,,Semi
+384,"28,012",1,"in Kondapur, Hyderabad",325,Bathrooms1,Fully
+385,"70,000",2,"in Nallagandla, Hyderabad",2444,,Fully
+386,"55,012",3,"in Borabanda, Hyderabad",1938,,Semi
+387,"80,026",3,"in Narsingi, Hyderabad",2656,,Semi
+388,"85,032",3,"in Kondapur, Hyderabad",3056,,Semi
+389,"2,50,032",5,"in Kondapur, Hyderabad",5125,,Semi
+390,"55,021",3,"in Puppalaguda, Hyderabad",2063,,Semi
+391,"70,016",3,"in Nanakaramguda, Hyderabad",2178,,Fully
+392,"42,035",3,"in Chandanagar, Hyderabad",2250,Bathrooms3,Semi
+393,"65,011",3,"in Gopanapalli, Hyderabad",2456,,Fully
+394,"42,014",3,"in Serilingampally, Hyderabad",1800,,Semi
+395,"1,00,017",3,"in Kondapur, Hyderabad",2988,,Semi
+396,"75,014",3,"in Kondapur, Hyderabad",2438,,Semi
+397,"80,025",4,"in Kothaguda, Hyderabad",5000,,Fully
+398,"65,012",3,"in Nallagandla, Hyderabad",2481,,Semi
+399,"50,014",2,"in Gopanapalli, Hyderabad",1938,,Semi
+400,"1,20,015",5,"in Tellapur, Hyderabad",5000,,Semi
+401,"1,00,014",4,"in Manikonda, Hyderabad",4574,,Fully
+402,"75,014",3,"in Kokapet, Hyderabad",2794,,Semi
+403,"45,014",2,"in Nallagandla, Hyderabad",1544,,Semi
+404,"2,20,014",3,"in Rai Durg, Hyderabad",4288,,Semi
+405,"65,011",3,"in Nallagandla, Hyderabad",2481,,Semi
+406,"1,00,017",3,"in Kondapur, Hyderabad",3000,,Semi
+407,"85,011",3,"in Kondapur, Hyderabad",3056,,Semi
+408,"60,011",3,"in Nanakaramguda, Hyderabad",2438,,Semi
+409,"55,012",3,"in Borabanda, Hyderabad",1938,,Semi
+410,"42,011",3,"in Serilingampally, Hyderabad",1800,,Semi
+411,"65,021",3,"in Nallagandla, Hyderabad",2481,,Semi
+412,"28,000",2,"in Kondapur, Hyderabad",1120,Bathrooms2,Semi
+413,"1,10,000",5,"in Kompally, Hyderabad",3500,,Un
+414,"30,000",3,"in Bachupally, Hyderabad",2600,,Semi
+415,"65,023",3,"in Gopanapalli, Hyderabad",2456,,Fully
+416,"70,000",2,"in Nallagandla, Hyderabad",2444,,Fully
+417,"55,000",3,"in Borabanda, Hyderabad",1938,,Semi
+418,"45,023",2,"in Nallagandla, Hyderabad",1544,,Semi
+419,"50,026",2,"in Gopanapalli, Hyderabad",1938,,Semi
+420,"80,021",3,"in Kokapet, Hyderabad",2561,,Fully
+421,"65,026",2,"in Nanakaramguda, Hyderabad",1638,,Fully
+422,"60,000",3,"in Nanakaramguda, Hyderabad",2438,,Semi
+423,"45,026",2,"in Nallagandla, Hyderabad",1594,,Semi
+424,"55,000",2,"in Kondapur, Hyderabad",1613,,Semi
+425,"75,015",3,"in Kondapur, Hyderabad",2438,,Semi
+426,"2,20,016",3,"in Rai Durg, Hyderabad",4288,,Semi
+427,"80,026",4,"in Kothaguda, Hyderabad",5000,,Fully
+428,"65,016",3,"in Nallagandla, Hyderabad",2481,,Semi
+429,"58,015",3,"in Manikonda, Hyderabad",2313,,Semi
+430,"58,012",3,"in Manikonda, Hyderabad",2313,,Semi
+431,"50,000",3,"in Borabanda, Hyderabad",2775,,Semi
+432,"45,012",3,"in Osman Nagar, Hyderabad",2533,,Fully
+433,"60,000",3,"in Kokapet, Hyderabad",2275,,Semi
+434,"52,000",3,"in Borabanda, Hyderabad",2063,,Semi
+435,"38,026",2,"in Tellapur, Hyderabad",1506,,Semi
+436,"60,015",3,"in Gopanapalli, Hyderabad",2013,,Semi
+437,"65,026",3,"in Nallagandla, Hyderabad",2313,,Fully
+438,"1,00,000",4,"in Manikonda, Hyderabad",4574,,Fully
+439,"60,016",3,"in Kokapet, Hyderabad",2238,,Semi
+440,"27,000",3,"in Trimalgherry, Hyderabad",2200,,Semi
+441,"12,000",1,"in Kothapet, Hyderabad",500,Bathrooms2,Semi
+442,"38,000",3,"in Mallapur, Hyderabad",1698,,Semi
+443,"2,00,000",2,"in Nallagandla, Hyderabad",3300,Bathrooms1,Un
+444,"50,000",2,"in Kondapur, Hyderabad",1290,,Semi
+445,"20,000",3,"in Bapu nagar, Hyderabad",1200,Bathrooms2,Un
+446,"75,000",3,"in Kondapur, Hyderabad",2290,,Semi
+447,"22,000",3,"in Chengicherla, Hyderabad",1900,Bathrooms3,Un
+448,"3,50,021",6,"in Gachibowli, Hyderabad",7500,,Semi
+449,"3,50,021",6,"in Gachibowli, Hyderabad",7500,,Semi
+450,"60,011",3,"in Kokapet, Hyderabad",2275,,Semi
+451,"55,019",3,"in Borabanda, Hyderabad",2063,,Semi
+452,"3,50,021",6,"in Gachibowli, Hyderabad",7500,,Semi
+453,"50,036",3,"in Manikonda, Hyderabad",1688,,Semi
+454,"50,035",3,"in Borabanda, Hyderabad",2775,,Semi
+455,"45,015",3,"in Osman Nagar, Hyderabad",2533,,Fully
+456,"50,026",2,"in Khaja Guda, Hyderabad",1643,,Fully
+457,"45,011",2,"in Nallagandla, Hyderabad",1594,,Semi
+458,"45,011",3,"in Kokapet, Hyderabad",2344,,Semi
+459,"65,026",3,"in Gachibowli, Hyderabad",2313,,Fully
+460,"2,50,012",5,"in Shaikpet, Hyderabad",6520,,Semi
+461,"50,000",3,"in Habsiguda, Hyderabad",2000,Bathrooms3,Semi
+462,"40,000",4,"in Kompally, Hyderabad",6000,Bathrooms4,Semi
+463,"20,000",3,"in Nacharam, Hyderabad",1500,Bathrooms2,Semi
+464,"65,012",3,"in Gachibowli, Hyderabad",2313,,Fully
+465,"2,50,013",5,"in Kondapur, Hyderabad",5125,,Semi
+466,"50,015",3,"in Manikonda, Hyderabad",1688,,Semi
+467,"28,011",1,"in Kondapur, Hyderabad",325,Bathrooms1,Fully
+468,"55,012",3,"in Puppalaguda, Hyderabad",2063,,Semi
+469,"55,012",2,"in Kondapur, Hyderabad",2938,,Fully
+470,"42,011",3,"in Chandanagar, Hyderabad",2250,Bathrooms3,Semi
+471,"45,012",3,"in Osman Nagar, Hyderabad",2533,,Fully
+472,"50,011",2,"in Khaja Guda, Hyderabad",1643,,Fully
+473,"65,011",3,"in Kokapet, Hyderabad",2169,Bathrooms3,Fully
+474,"55,000",2,"in Kondapur, Hyderabad",1630,,Semi
+475,"50,000",2,"in Kondapur, Hyderabad",1290,,Semi
+476,"3,50,012",6,"in Gachibowli, Hyderabad",7500,,Semi
+477,"1,20,012",5,"in Tellapur, Hyderabad",5000,,Semi
+478,"80,011",4,"in Kothaguda, Hyderabad",5000,,Fully
+479,"2,50,012",5,"in Shaikpet, Hyderabad",6520,,Semi
+480,"70,000",3,"in Kondapur, Hyderabad",2566,,Semi
+481,"55,012",3,"in Borabanda, Hyderabad",2063,,Semi
+482,"70,011",3,"in Nanakaramguda, Hyderabad",2178,,Fully
+483,"45,011",2,"in Nallagandla, Hyderabad",1594,,Semi
+484,"45,011",3,"in Kokapet, Hyderabad",2344,,Semi
+485,"80,012",3,"in Kokapet, Hyderabad",2561,,Fully
+486,"70,011",4,"in Nanakaramguda, Hyderabad",2491,,Semi
+487,"50,011",3,"in Borabanda, Hyderabad",2775,,Semi
+488,"65,012",3,"in Gopanapalli, Hyderabad",2456,,Fully
+489,"65,012",3,"in Gopanapalli, Hyderabad",2456,,Fully
+490,"70,012",2,"in Nallagandla, Hyderabad",2444,,Fully
+491,"60,012",3,"in Kokapet, Hyderabad",2275,,Semi
+492,"80,012",3,"in Narsingi, Hyderabad",2656,,Semi
+493,"1,00,021",4,"in Manikonda, Hyderabad",4574,,Fully
+494,"45,011",2,"in Nallagandla, Hyderabad",1544,,Semi
+495,"2,20,011",3,"in Rai Durg, Hyderabad",4288,,Semi
+496,"65,011",3,"in Nallagandla, Hyderabad",2481,,Semi
+497,"80,011",3,"in Kokapet, Hyderabad",2560,,Semi
+498,"1,00,012",3,"in Kondapur, Hyderabad",2988,,Semi
+499,"75,011",3,"in Kondapur, Hyderabad",2438,,Semi
+500,"75,012",3,"in Kokapet, Hyderabad",2794,,Semi
+501,"75,012",3,"in Kokapet, Hyderabad",2794,,Semi
+502,"50,021",2,"in Gopanapalli, Hyderabad",1938,,Semi
+503,"1,20,000",3,"in Yousufguda, Hyderabad",3000,Bathrooms3,Fully
+504,"70,000",3,"in Banjara Hills, Hyderabad",2800,,Semi
+505,"1,20,000",3,"in Jubilee Hills, Hyderabad",3200,Bathrooms3,Semi
+506,"1,50,000",4,"in Banjara Hills, Hyderabad",3500,Bathrooms4,Semi
+507,"1,51,000",3,"in Banjara Hills, Hyderabad",3000,Bathrooms3,Semi
+508,"1,80,000",4,"in Jubilee Hills, Hyderabad",4000,Bathrooms5,Semi
+509,"33,000",3,"in Bairagiguda, Hyderabad",1650,Bathrooms2,Semi
+510,"29,000",2,"in Bairagiguda, Hyderabad",1200,Bathrooms2,Semi
+511,"28,000",2,"in Kukatpally, Hyderabad",1100,Bathrooms2,Un
+512,"7,500",2,"in Narapally, Hyderabad",900,Bathrooms2,Semi
+513,"25,000",2,"in Narayanguda, Hyderabad",1100,Bathrooms2,Semi
+514,"10,000",2,"in Maheshwaram, Hyderabad",1180,Bathrooms2,Semi
+515,"15,000",2,"in Nagole, Hyderabad",1000,Bathrooms2,Fully
+516,"8,500",2,"in Hayathnagar, Hyderabad",1000,Bathrooms2,Un
+517,"18,400",3,"in Toli Chowki, Hyderabad",2200,Bathrooms1,Fully
+518,"30,000",3,"in Manikonda, Hyderabad",1500,Bathrooms1,Semi
+519,"18,000",2,"in Nallakunta, Hyderabad",1100,,Semi
+520,"24,000",2,"in Serilingampally, Hyderabad",1150,Bathrooms2,Semi
+521,"15,500",2,"in Padmarao Nagar, Hyderabad",850,Bathrooms2,Semi
+522,"22,000",1,"in Kondapur, Hyderabad",650,Bathrooms1,Fully
+523,"85,000",5,"in Habsiguda, Hyderabad",5400,Bathrooms6,Semi
+524,"67,000",3,"in Kondapur, Hyderabad",2000,,Semi
+525,"60,000",3,"in Kondapur, Hyderabad",2200,Bathrooms3,Fully
+526,"18,000",2,"in Pragathi Nagar, Hyderabad",1050,Bathrooms2,Semi
+527,"15,000",3,"in Thirumalagiri, Hyderabad",1200,Bathrooms2,Semi
+528,"13,000",1,"in Himayath Nagar, Hyderabad",700,Bathrooms1,Semi
+529,"50,000",3,"in Nanakaramguda, Hyderabad",1881,,Semi
+530,"82,500",3,"in Kondapur, Hyderabad",2300,Bathrooms3,Fully
+531,"26,000",3,"in Bowrampet, Hyderabad",1600,,Semi
+532,"1,05,000",3,"in Kondapur, Hyderabad",2440,,Fully
+533,"8,000",2,"in Siddipet, Hyderabad",800,Bathrooms2,Un
+534,"18,000",1,"in Shaikpet, Hyderabad",400,Bathrooms1,Fully
+535,"21,000",3,"in Kapra, Hyderabad",1350,Bathrooms2,Semi
+536,"1,15,000",3,"in Kondapur, Hyderabad",2440,,Semi
+537,"67,000",3,"in Nanakaramguda, Hyderabad",2043,,Semi
+538,"1,70,000",4,"in Madhapur, Hyderabad",5500,Bathrooms4,Semi
+539,"15,000",2,"in Saroornagar, Hyderabad",1200,Bathrooms2,Un
+540,"30,000",3,"in Ameenpur, Hyderabad",1515,,Semi
+541,"38,000",4,"in Banjara Hills, Hyderabad",1500,Bathrooms3,Semi
+542,"55,000",3,"in Gopanapalli, Hyderabad",1550,,Semi
+543,"23,000",1,"in Kondapur, Hyderabad",750,Bathrooms1,Fully
+544,"28,000",1,"in Kondapur, Hyderabad",900,Bathrooms1,Fully
+545,"22,000",1,"in Kondapur, Hyderabad",800,Bathrooms1,Fully
+546,"23,000",1,"in Kondapur, Hyderabad",850,Bathrooms1,Semi
+547,"23,000",1,"in Kondapur, Hyderabad",800,Bathrooms1,Fully
+548,"20,000",1,"in Kondapur, Hyderabad",850,Bathrooms1,Semi
+549,"20,000",1,"in Kondapur, Hyderabad",850,Bathrooms1,Semi
+550,"26,000",1,"in Kondapur, Hyderabad",750,Bathrooms1,Fully
+551,"24,000",1,"in Kondapur, Hyderabad",800,Bathrooms1,Fully
+552,"23,000",1,"in Kondapur, Hyderabad",850,Bathrooms1,Semi
+553,"23,000",1,"in Kondapur, Hyderabad",750,Bathrooms1,Fully
+554,"23,000",1,"in Kondapur, Hyderabad",850,Bathrooms1,Semi
+555,"28,000",2,"in Hafeezpet, Hyderabad",1200,Bathrooms2,Semi
+556,"11,000",2,"in Pocharam, Secunderabad",800,Bathrooms2,Semi
+557,"20,000",2,"in Alwal, Hyderabad",2500,Bathrooms2,Fully
+558,"16,500",3,"in Sainikpuri, Hyderabad",1310,Bathrooms3,Semi
+559,"24,000",2,"in Mallampet, Hyderabad",1120,,Semi
+560,"25,000",3,"in Bowrampet, Hyderabad",1550,,Semi
+561,"10,000",2,"in Hayathnagar, Hyderabad",1000,Bathrooms2,Un
+562,"18,000",2,"in Dilsukh Nagar, Hyderabad",900,,Semi
+563,"55,000",3,"in Srinagar Colony, Hyderabad",2200,Bathrooms3,Semi
+564,"65,000",3,"in Nallagandla, Hyderabad",1960,,Semi
+565,"12,000",2,"in Santosh Nagar, Hyderabad",1000,Bathrooms1,Un
+566,"1,00,000",4,"in Tellapur, Hyderabad",3233,,Semi
+567,"50,000",3,"in Nallagandla, Hyderabad",1550,,Semi
+568,"19,500",1,"in Kondapur, Hyderabad",850,Bathrooms1,Semi
+569,"34,500",3,"in Gachibowli, Hyderabad",1900,Bathrooms3,Semi
+570,"16,000",1,"in Kondapur, Hyderabad",720,Bathrooms1,Semi
+571,"22,500",1,"in Kondapur, Hyderabad",720,Bathrooms1,Fully
+572,"27,500",2,"in Kondapur, Hyderabad",1400,Bathrooms2,Semi
+573,"18,500",1,"in Kondapur, Hyderabad",650,Bathrooms1,Semi
+574,"40,000",2,"in Madhapur, Hyderabad",1250,Bathrooms2,Fully
+575,"35,000",2,"in Kondapur, Hyderabad",1250,Bathrooms2,Fully
+576,"14,000",1,"in Kondapur, Hyderabad",800,Bathrooms1,Un
+577,"18,000",1,"in Kondapur, Hyderabad",800,Bathrooms1,Semi
+578,"34,000",3,"in Kondapur, Hyderabad",1700,Bathrooms3,Fully
+579,"55,000",3,"in Madhapur, Hyderabad",1900,Bathrooms3,Semi
+580,"50,001",3,"in Madhapur, Hyderabad",1850,Bathrooms3,Semi
+581,"23,000",2,"in Narayanguda, Hyderabad",1100,Bathrooms1,Semi
+582,"10,000",1,in Bharat Heavy Electricals,500,Bathrooms1,Un
+583,"20,000",2,"in Malkajgiri, Hyderabad",1100,Bathrooms2,Semi
+584,"55,000",3,"in Begumpet, Hyderabad",1800,Bathrooms3,Fully
+585,"65,000",3,"in Kokapet, Hyderabad",2169,Bathrooms3,Fully
+586,"42,000",3,"in Chandanagar, Hyderabad",2250,Bathrooms3,Semi
+587,"42,000",3,"in Chandanagar, Hyderabad",2250,Bathrooms3,Semi
+588,"65,015",3,"in Kokapet, Hyderabad",2169,Bathrooms3,Fully
+589,"6,000",1,"in Mansanpally, Hyderabad",550,Bathrooms1,Semi
+590,"10,000",2,"in Mansanpally, Hyderabad",1200,Bathrooms2,Semi
+591,"15,000",3,"in Mansanpally, Hyderabad",1550,Bathrooms3,Semi
+592,"12,000",2,in Nagaram South Hyderabad,1150,Bathrooms2,Semi
+593,"7,500",1,in Nagaram South Hyderabad,1200,Bathrooms1,Un
+594,"12,000",2,in Nagaram South Hyderabad,1200,Bathrooms2,Un
+595,"10,000",2,in Nagaram South Hyderabad,1500,Bathrooms2,Un
+596,"10,000",2,in Nagaram South Hyderabad,1250,Bathrooms2,Semi
+597,"18,000",3,"in Maheshwaram, Hyderabad",1500,Bathrooms3,Un
+598,"10,000",2,"in Maheshwaram, Hyderabad",1180,Bathrooms2,Semi
+599,"18,000",2,"in Maheshwaram, Hyderabad",1200,Bathrooms2,Semi
+600,"6,000",1,"in Maheshwaram, Hyderabad",550,Bathrooms1,Semi
+601,"8,000",1,"in Maheshwaram, Hyderabad",650,Bathrooms1,Semi
+602,"12,000",3,"in Maheshwaram, Hyderabad",1450,Bathrooms3,Semi
+603,"18,000",3,"in Maheshwaram, Hyderabad",1800,Bathrooms3,Semi
+604,"20,000",3,"in Maheshwaram, Hyderabad",1800,Bathrooms3,Semi
+605,"8,000",2,"in Maheshwaram, Hyderabad",1000,Bathrooms2,Semi
+606,"10,000",2,"in Maheshwaram, Hyderabad",1100,Bathrooms2,Semi
+607,"6,000",1,"in Mansanpally, Hyderabad",550,Bathrooms1,Semi
+608,"10,000",2,"in Mansanpally, Hyderabad",1200,Bathrooms2,Semi
+609,"15,000",3,"in Mansanpally, Hyderabad",1550,Bathrooms3,Semi
+610,"12,000",2,in Nagaram South Hyderabad,1150,Bathrooms2,Semi
+611,"7,500",1,in Nagaram South Hyderabad,1200,Bathrooms1,Un
+612,"12,000",2,in Nagaram South Hyderabad,1200,Bathrooms2,Un
+613,"10,000",2,in Nagaram South Hyderabad,1500,Bathrooms2,Un
+614,"10,000",2,in Nagaram South Hyderabad,1250,Bathrooms2,Semi
+615,"18,000",3,"in Maheshwaram, Hyderabad",1500,Bathrooms3,Un
+616,"10,000",2,"in Maheshwaram, Hyderabad",1180,Bathrooms2,Semi
+617,"18,000",2,"in Maheshwaram, Hyderabad",1200,Bathrooms2,Semi
+618,"6,000",1,"in Maheshwaram, Hyderabad",550,Bathrooms1,Semi
+619,"8,000",1,"in Maheshwaram, Hyderabad",650,Bathrooms1,Semi
+620,"12,000",3,"in Maheshwaram, Hyderabad",1450,Bathrooms3,Semi
+621,"18,000",3,"in Maheshwaram, Hyderabad",1800,Bathrooms3,Semi
+622,"20,000",3,"in Maheshwaram, Hyderabad",1800,Bathrooms3,Semi
+623,"8,000",2,"in Maheshwaram, Hyderabad",1000,Bathrooms2,Semi
+624,"10,000",2,"in Maheshwaram, Hyderabad",1100,Bathrooms2,Semi
+625,"6,000",1,"in Mansanpally, Hyderabad",550,Bathrooms1,Semi
+626,"10,000",2,"in Mansanpally, Hyderabad",1200,Bathrooms2,Semi
+627,"15,000",3,"in Mansanpally, Hyderabad",1550,Bathrooms3,Semi
+628,"12,000",2,in Nagaram South Hyderabad,1150,Bathrooms2,Semi
+629,"7,500",1,in Nagaram South Hyderabad,1200,Bathrooms1,Un
+630,"12,000",2,in Nagaram South Hyderabad,1200,Bathrooms2,Un
+631,"10,000",2,in Nagaram South Hyderabad,1500,Bathrooms2,Un
+632,"10,000",2,in Nagaram South Hyderabad,1250,Bathrooms2,Semi
+633,"18,000",3,"in Maheshwaram, Hyderabad",1500,Bathrooms3,Un
+634,"10,000",2,"in Maheshwaram, Hyderabad",1180,Bathrooms2,Semi
+635,"18,000",2,"in Maheshwaram, Hyderabad",1200,Bathrooms2,Semi
+636,"6,000",1,"in Maheshwaram, Hyderabad",550,Bathrooms1,Semi
+637,"8,000",1,"in Maheshwaram, Hyderabad",650,Bathrooms1,Semi
+638,"12,000",3,"in Maheshwaram, Hyderabad",1450,Bathrooms3,Semi
+639,"18,000",3,"in Maheshwaram, Hyderabad",1800,Bathrooms3,Semi
+640,"20,000",3,"in Maheshwaram, Hyderabad",1800,Bathrooms3,Semi
+641,"8,000",2,"in Maheshwaram, Hyderabad",1000,Bathrooms2,Semi
+642,"10,000",2,"in Maheshwaram, Hyderabad",1100,Bathrooms2,Semi
+643,"6,000",1,"in Mansanpally, Hyderabad",550,Bathrooms1,Semi
+644,"10,000",2,"in Mansanpally, Hyderabad",1200,Bathrooms2,Semi
+645,"15,000",3,"in Mansanpally, Hyderabad",1550,Bathrooms3,Semi
+646,"12,000",2,in Nagaram South Hyderabad,1150,Bathrooms2,Semi
+647,"7,500",1,in Nagaram South Hyderabad,1200,Bathrooms1,Un
+648,"12,000",2,in Nagaram South Hyderabad,1200,Bathrooms2,Un
+649,"10,000",2,in Nagaram South Hyderabad,1500,Bathrooms2,Un
+650,"10,000",2,in Nagaram South Hyderabad,1250,Bathrooms2,Semi
+651,"18,000",3,"in Maheshwaram, Hyderabad",1500,Bathrooms3,Un
+652,"10,000",2,"in Maheshwaram, Hyderabad",1180,Bathrooms2,Semi
+653,"18,000",2,"in Maheshwaram, Hyderabad",1200,Bathrooms2,Semi
+654,"6,000",1,"in Maheshwaram, Hyderabad",550,Bathrooms1,Semi
+655,"8,000",1,"in Maheshwaram, Hyderabad",650,Bathrooms1,Semi
+656,"12,000",3,"in Maheshwaram, Hyderabad",1450,Bathrooms3,Semi
+657,"18,000",3,"in Maheshwaram, Hyderabad",1800,Bathrooms3,Semi
+658,"20,000",3,"in Maheshwaram, Hyderabad",1800,Bathrooms3,Semi
+659,"8,000",2,"in Maheshwaram, Hyderabad",1000,Bathrooms2,Semi
+660,"10,000",2,"in Maheshwaram, Hyderabad",1100,Bathrooms2,Semi
+661,"6,000",1,"in Mansanpally, Hyderabad",550,Bathrooms1,Semi
+662,"10,000",2,"in Mansanpally, Hyderabad",1200,Bathrooms2,Semi
+663,"15,000",3,"in Mansanpally, Hyderabad",1550,Bathrooms3,Semi
+664,"12,000",2,in Nagaram South Hyderabad,1150,Bathrooms2,Semi
+665,"7,500",1,in Nagaram South Hyderabad,1200,Bathrooms1,Un
+666,"12,000",2,in Nagaram South Hyderabad,1200,Bathrooms2,Un
+667,"10,000",2,in Nagaram South Hyderabad,1500,Bathrooms2,Un
+668,"10,000",2,in Nagaram South Hyderabad,1250,Bathrooms2,Semi
+669,"18,000",3,"in Maheshwaram, Hyderabad",1500,Bathrooms3,Un
+670,"10,000",2,"in Maheshwaram, Hyderabad",1180,Bathrooms2,Semi
+671,"18,000",2,"in Maheshwaram, Hyderabad",1200,Bathrooms2,Semi
+672,"6,000",1,"in Maheshwaram, Hyderabad",550,Bathrooms1,Semi
+673,"8,000",1,"in Maheshwaram, Hyderabad",650,Bathrooms1,Semi
+674,"12,000",3,"in Maheshwaram, Hyderabad",1450,Bathrooms3,Semi
+675,"18,000",3,"in Maheshwaram, Hyderabad",1800,Bathrooms3,Semi
+676,"20,000",3,"in Maheshwaram, Hyderabad",1800,Bathrooms3,Semi
+677,"8,000",2,"in Maheshwaram, Hyderabad",1000,Bathrooms2,Semi
+678,"10,000",2,"in Maheshwaram, Hyderabad",1100,Bathrooms2,Semi
+679,"6,000",1,"in Mansanpally, Hyderabad",550,Bathrooms1,Semi
+680,"10,000",2,"in Mansanpally, Hyderabad",1200,Bathrooms2,Semi
+681,"15,000",3,"in Mansanpally, Hyderabad",1550,Bathrooms3,Semi
+682,"12,000",2,in Nagaram South Hyderabad,1150,Bathrooms2,Semi
+683,"7,500",1,in Nagaram South Hyderabad,1200,Bathrooms1,Un
+684,"12,000",2,in Nagaram South Hyderabad,1200,Bathrooms2,Un
+685,"10,000",2,in Nagaram South Hyderabad,1500,Bathrooms2,Un
+686,"10,000",2,in Nagaram South Hyderabad,1250,Bathrooms2,Semi
+687,"18,000",3,"in Maheshwaram, Hyderabad",1500,Bathrooms3,Un
+688,"10,000",2,"in Maheshwaram, Hyderabad",1180,Bathrooms2,Semi
+689,"18,000",2,"in Maheshwaram, Hyderabad",1200,Bathrooms2,Semi
+690,"6,000",1,"in Maheshwaram, Hyderabad",550,Bathrooms1,Semi
+691,"8,000",1,"in Maheshwaram, Hyderabad",650,Bathrooms1,Semi
+692,"12,000",3,"in Maheshwaram, Hyderabad",1450,Bathrooms3,Semi
+693,"18,000",3,"in Maheshwaram, Hyderabad",1800,Bathrooms3,Semi
+694,"20,000",3,"in Maheshwaram, Hyderabad",1800,Bathrooms3,Semi
+695,"8,000",2,"in Maheshwaram, Hyderabad",1000,Bathrooms2,Semi
+696,"10,000",2,"in Maheshwaram, Hyderabad",1100,Bathrooms2,Semi
+697,"6,000",1,"in Mansanpally, Hyderabad",550,Bathrooms1,Semi
+698,"10,000",2,"in Mansanpally, Hyderabad",1200,Bathrooms2,Semi
+699,"15,000",3,"in Mansanpally, Hyderabad",1550,Bathrooms3,Semi
+700,"12,000",2,in Nagaram South Hyderabad,1150,Bathrooms2,Semi
+701,"7,500",1,in Nagaram South Hyderabad,1200,Bathrooms1,Un
+702,"12,000",2,in Nagaram South Hyderabad,1200,Bathrooms2,Un
+703,"10,000",2,in Nagaram South Hyderabad,1500,Bathrooms2,Un
+704,"10,000",2,in Nagaram South Hyderabad,1250,Bathrooms2,Semi
+705,"18,000",3,"in Maheshwaram, Hyderabad",1500,Bathrooms3,Un
+706,"10,000",2,"in Maheshwaram, Hyderabad",1180,Bathrooms2,Semi
+707,"18,000",2,"in Maheshwaram, Hyderabad",1200,Bathrooms2,Semi
+708,"6,000",1,"in Maheshwaram, Hyderabad",550,Bathrooms1,Semi
+709,"8,000",1,"in Maheshwaram, Hyderabad",650,Bathrooms1,Semi
+710,"12,000",3,"in Maheshwaram, Hyderabad",1450,Bathrooms3,Semi
+711,"18,000",3,"in Maheshwaram, Hyderabad",1800,Bathrooms3,Semi
+712,"20,000",3,"in Maheshwaram, Hyderabad",1800,Bathrooms3,Semi
+713,"8,000",2,"in Maheshwaram, Hyderabad",1000,Bathrooms2,Semi
+714,"10,000",2,"in Maheshwaram, Hyderabad",1100,Bathrooms2,Semi
+715,"6,000",1,"in Mansanpally, Hyderabad",550,Bathrooms1,Semi
+716,"10,000",2,"in Mansanpally, Hyderabad",1200,Bathrooms2,Semi
+717,"15,000",3,"in Mansanpally, Hyderabad",1550,Bathrooms3,Semi
+718,"12,000",2,in Nagaram South Hyderabad,1150,Bathrooms2,Semi
+719,"7,500",1,in Nagaram South Hyderabad,1200,Bathrooms1,Un
+720,"12,000",2,in Nagaram South Hyderabad,1200,Bathrooms2,Un
+721,"10,000",2,in Nagaram South Hyderabad,1500,Bathrooms2,Un
+722,"10,000",2,in Nagaram South Hyderabad,1250,Bathrooms2,Semi
+723,"18,000",3,"in Maheshwaram, Hyderabad",1500,Bathrooms3,Un
+724,"10,000",2,"in Maheshwaram, Hyderabad",1180,Bathrooms2,Semi
+725,"18,000",2,"in Maheshwaram, Hyderabad",1200,Bathrooms2,Semi
+726,"6,000",1,"in Maheshwaram, Hyderabad",550,Bathrooms1,Semi
+727,"8,000",1,"in Maheshwaram, Hyderabad",650,Bathrooms1,Semi
+728,"12,000",3,"in Maheshwaram, Hyderabad",1450,Bathrooms3,Semi
+729,"18,000",3,"in Maheshwaram, Hyderabad",1800,Bathrooms3,Semi
+730,"20,000",3,"in Maheshwaram, Hyderabad",1800,Bathrooms3,Semi
+731,"8,000",2,"in Maheshwaram, Hyderabad",1000,Bathrooms2,Semi
+732,"10,000",2,"in Maheshwaram, Hyderabad",1100,Bathrooms2,Semi
